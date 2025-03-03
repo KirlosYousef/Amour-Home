@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["L3Y3NN5H2E.KirlosYousef.Amour"],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Match all paths under the subdomain"
+          }
+        ]
+      }
+    ]
+  }
+}
